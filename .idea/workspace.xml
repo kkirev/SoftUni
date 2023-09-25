@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07c2df67-44ac-471d-b19d-038533348a0e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/08-09. Data Types and Variables/01_concat_names.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/08-09. Data Types and Variables/02_convert_meters_to_kilometers.py" afterDir="false" />
+    <list default="true" id="07c2df67-44ac-471d-b19d-038533348a0e" name="Changes" comment="just added the first two tasks">
+      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/08-09. Data Types and Variables/03_punds_to_dollars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/08-09. Data Types and Variables/04_centuries_to_minutes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/08-09. Data Types and Variables/05_special_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/08-09. Data Types and Variables/06_next_happy_year.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +49,7 @@
     "ignore.virus.scanning.warn.message": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.02_convert_meters_to_kilometers">
+  <component name="RunManager" selected="Python.04_centuries_to_minutes">
     <configuration name="01_concat_names" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -94,8 +92,52 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="03_punds_to_dollars" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Fundamentals/08-09. Data Types and Variables" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Fundamentals/08-09. Data Types and Variables/03_punds_to_dollars.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="04_centuries_to_minutes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Fundamentals/08-09. Data Types and Variables" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Fundamentals/08-09. Data Types and Variables/04_centuries_to_minutes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.04_centuries_to_minutes" />
+        <item itemvalue="Python.03_punds_to_dollars" />
         <item itemvalue="Python.02_convert_meters_to_kilometers" />
         <item itemvalue="Python.01_concat_names" />
       </list>
@@ -110,6 +152,35 @@
       <option name="presentableId" value="Default" />
       <updated>1695657142794</updated>
     </task>
+    <task id="LOCAL-00001" summary="just added the first two tasks">
+      <option name="closed" value="true" />
+      <created>1695658234485</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695658234485</updated>
+    </task>
+    <task id="LOCAL-00002" summary="just added the first two tasks">
+      <option name="closed" value="true" />
+      <created>1695658290888</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695658290888</updated>
+    </task>
+    <task id="LOCAL-00003" summary="just added the first two tasks">
+      <option name="closed" value="true" />
+      <created>1695658349865</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1695658349865</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="just added the first two tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="just added the first two tasks" />
   </component>
 </project>
