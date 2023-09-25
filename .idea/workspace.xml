@@ -5,13 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07c2df67-44ac-471d-b19d-038533348a0e" name="Changes" comment="just added the rest of the tasks">
+      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/08-09. Data Types and Variables - Exercise/01_integer_operations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/08-09. Data Types and Variables - Exercise/02_chars_to_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/08-09. Data Types and Variables - Exercise/03_elevator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/08-09. Data Types and Variables - Exercise/04_sum_of_chairs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/08-09. Data Types and Variables - Exercise/05_print_part_of_the_ascii_table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/08-09. Data Types and Variables - Exercise/06_triples_of_latin_letters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/08-09. Data Types and Variables - Exercise/07_water_overflow.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/08-09. Data Types and Variables/01_concat_names.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Fundamentals/08-09. Data Types and Variables - Lab/01_concat_names.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/08-09. Data Types and Variables/02_convert_meters_to_kilometers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Fundamentals/08-09. Data Types and Variables - Lab/02_convert_meters_to_kilometers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/08-09. Data Types and Variables/03_punds_to_dollars.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Fundamentals/08-09. Data Types and Variables - Lab/03_punds_to_dollars.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/08-09. Data Types and Variables/04_centuries_to_minutes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Fundamentals/08-09. Data Types and Variables - Lab/04_centuries_to_minutes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/08-09. Data Types and Variables/05_special_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Fundamentals/08-09. Data Types and Variables - Lab/05_special_numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/08-09. Data Types and Variables/06_next_happy_year.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Fundamentals/08-09. Data Types and Variables - Lab/06_next_happy_year.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,18 +44,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "ignore.virus.scanning.warn.message": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/OneDrive/Programming/SoftUni-Course/Code&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Python.04_centuries_to_minutes">
-    <configuration name="01_concat_names" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}</component>
+  <component name="RunManager" selected="Python.06_triples_of_latin_letters">
+    <configuration name="02_chars_to_string" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -61,11 +64,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Fundamentals/08-09. Data Types and Variables" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Fundamentals/08-09. Data Types and Variables - Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Fundamentals/08-09. Data Types and Variables/01_concat_names.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Fundamentals/08-09. Data Types and Variables - Exercise/02_chars_to_string.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -74,7 +77,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02_convert_meters_to_kilometers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03_elevator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,11 +85,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Fundamentals/08-09. Data Types and Variables" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Fundamentals/08-09. Data Types and Variables - Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Fundamentals/08-09. Data Types and Variables/02_convert_meters_to_kilometers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Fundamentals/08-09. Data Types and Variables - Exercise/03_elevator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +98,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03_punds_to_dollars" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04_sum_of_chairs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,11 +106,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Fundamentals/08-09. Data Types and Variables" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Fundamentals/08-09. Data Types and Variables - Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Fundamentals/08-09. Data Types and Variables/03_punds_to_dollars.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Fundamentals/08-09. Data Types and Variables - Exercise/04_sum_of_chairs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +119,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04_centuries_to_minutes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="05_print_part_of_the_ascii_table" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,11 +127,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Fundamentals/08-09. Data Types and Variables" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Fundamentals/08-09. Data Types and Variables - Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Fundamentals/08-09. Data Types and Variables/04_centuries_to_minutes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Fundamentals/08-09. Data Types and Variables - Exercise/05_print_part_of_the_ascii_table.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="06_triples_of_latin_letters" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Fundamentals/08-09. Data Types and Variables - Exercise" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Fundamentals/08-09. Data Types and Variables - Exercise/06_triples_of_latin_letters.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,10 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.04_centuries_to_minutes" />
-        <item itemvalue="Python.03_punds_to_dollars" />
-        <item itemvalue="Python.02_convert_meters_to_kilometers" />
-        <item itemvalue="Python.01_concat_names" />
+        <item itemvalue="Python.06_triples_of_latin_letters" />
+        <item itemvalue="Python.05_print_part_of_the_ascii_table" />
+        <item itemvalue="Python.04_sum_of_chairs" />
+        <item itemvalue="Python.03_elevator" />
+        <item itemvalue="Python.02_chars_to_string" />
       </list>
     </recent_temporary>
   </component>
@@ -202,5 +227,16 @@
     <MESSAGE value="just added the first two tasks" />
     <MESSAGE value="just added the rest of the tasks" />
     <option name="LAST_COMMIT_MESSAGE" value="just added the rest of the tasks" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Programming Fundamentals/08-09. Data Types and Variables - Exercise/04_sum_of_chairs.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
