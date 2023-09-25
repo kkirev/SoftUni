@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07c2df67-44ac-471d-b19d-038533348a0e" name="Changes" comment="just added the first two tasks">
-      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/08-09. Data Types and Variables/03_punds_to_dollars.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/08-09. Data Types and Variables/04_centuries_to_minutes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/08-09. Data Types and Variables/05_special_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/08-09. Data Types and Variables/06_next_happy_year.py" afterDir="false" />
+    <list default="true" id="07c2df67-44ac-471d-b19d-038533348a0e" name="Changes" comment="just added the rest of the tasks">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/08-09. Data Types and Variables/01_concat_names.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Fundamentals/08-09. Data Types and Variables - Lab/01_concat_names.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/08-09. Data Types and Variables/02_convert_meters_to_kilometers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Fundamentals/08-09. Data Types and Variables - Lab/02_convert_meters_to_kilometers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/08-09. Data Types and Variables/03_punds_to_dollars.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Fundamentals/08-09. Data Types and Variables - Lab/03_punds_to_dollars.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/08-09. Data Types and Variables/04_centuries_to_minutes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Fundamentals/08-09. Data Types and Variables - Lab/04_centuries_to_minutes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/08-09. Data Types and Variables/05_special_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Fundamentals/08-09. Data Types and Variables - Lab/05_special_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/08-09. Data Types and Variables/06_next_happy_year.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Fundamentals/08-09. Data Types and Variables - Lab/06_next_happy_year.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,11 +179,28 @@
       <option name="project" value="LOCAL" />
       <updated>1695658349865</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="just added the rest of the tasks">
+      <option name="closed" value="true" />
+      <created>1695660211553</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1695660211553</updated>
+    </task>
+    <task id="LOCAL-00005" summary="just added the rest of the tasks">
+      <option name="closed" value="true" />
+      <created>1695660590002</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1695660590002</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="just added the first two tasks" />
-    <option name="LAST_COMMIT_MESSAGE" value="just added the first two tasks" />
+    <MESSAGE value="just added the rest of the tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="just added the rest of the tasks" />
   </component>
 </project>
