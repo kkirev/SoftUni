@@ -11,8 +11,9 @@ loaded_amount = 0
 
 for line in range(line_numbers):
     current_amount = int(input())
+    if loaded_amount + current_amount > tank_capacity:
+        print("Insufficient capacity!")
+        continue
     loaded_amount += current_amount
-    if current_amount > tank_capacity:
-        print(f"Insufficient capacity!" )
-        current_amount = int(input())
+print(loaded_amount)
         
