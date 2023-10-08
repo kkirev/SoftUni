@@ -29,9 +29,8 @@ for num in numbers:
         digit_sum += int(digit)
     while digit_sum >= len(string):
         digit_sum -= len(string)
-    if string[digit_sum] in string:
-        message.append(string[digit_sum])
-        string.pop(digit_sum)
+    message.append(string[digit_sum])
+    string.pop(digit_sum)
 
 print("".join(message))
 
