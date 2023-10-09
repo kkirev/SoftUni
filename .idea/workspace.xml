@@ -5,14 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07c2df67-44ac-471d-b19d-038533348a0e" name="Changes" comment="just added the rest of the tasks">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/12. Lists Basics - Exercises/08_size_the_fire.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/12. Lists Basics - Exercises/10_bread_factory.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/12. Lists Basics - More Exercise/03_car_race.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/12. Lists Basics - More Exercise/04_josephus_permutation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/12. Lists Basics - More Exercise/05_tic_tac_toe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/14. Functions - Lab/01_absolute_values.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/14. Functions - Lab/02_grades.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/14. Functions - Lab/03_calculations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/14. Functions - Lab/04_repeat_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/14. Functions - Lab/05_orders.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/14. Functions - Lab/06_calculate_rectangle_area.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/14. Functions - Lab/07_rounding.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/12. Lists Basics - More Exercise/02_messaging.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Fundamentals/12. Lists Basics - More Exercise/02_messaging.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/12. Lists Basics - Exercises/08_size_the_fire.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/12. Lists Basics - More Exercise/04_josephus_permutation.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Programming Fundamentals/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Fundamentals/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +55,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/OneDrive/Programming/SoftUni-Course/Code&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -61,8 +63,8 @@
       <recent name="D:\OneDrive\Programming\SoftUni-Course\Code\Programming Fundamentals" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.10_bread_factory">
-    <configuration name="03_car_race" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.07_rounding">
+    <configuration name="04_repeat_string" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -70,11 +72,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Fundamentals/12. Lists Basics - More Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Fundamentals/14. Functions - Lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Fundamentals/12. Lists Basics - More Exercise/03_car_race.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Fundamentals/14. Functions - Lab/04_repeat_string.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -83,7 +85,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04_josephus_permutation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="05_orders" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,11 +93,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Fundamentals/12. Lists Basics - More Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Fundamentals/14. Functions - Lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Fundamentals/12. Lists Basics - More Exercise/04_josephus_permutation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Fundamentals/14. Functions - Lab/05_orders.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,7 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05_tic_tac_toe" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="06_calculate_rectangle_area" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,11 +114,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Fundamentals/12. Lists Basics - More Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Fundamentals/14. Functions - Lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Fundamentals/12. Lists Basics - More Exercise/05_tic_tac_toe.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Fundamentals/14. Functions - Lab/06_calculate_rectangle_area.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,7 +127,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="10_bread_factory" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="07_rounding" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -133,11 +135,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Fundamentals/12. Lists Basics - Exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Fundamentals/14. Functions - Lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Fundamentals/12. Lists Basics - Exercises/10_bread_factory.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Fundamentals/14. Functions - Lab/07_rounding.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.10_bread_factory" />
-        <item itemvalue="Python.05_tic_tac_toe" />
+        <item itemvalue="Python.07_rounding" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.04_josephus_permutation" />
-        <item itemvalue="Python.03_car_race" />
+        <item itemvalue="Python.06_calculate_rectangle_area" />
+        <item itemvalue="Python.05_orders" />
+        <item itemvalue="Python.04_repeat_string" />
       </list>
     </recent_temporary>
   </component>
@@ -241,11 +243,6 @@
           <url>file://$PROJECT_DIR$/Programming Fundamentals/09. Data Types and Variables - Exercise/04_sum_of_chairs.py</url>
           <line>11</line>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Programming Fundamentals/12. Lists Basics - More Exercise/02_messaging.py</url>
-          <line>25</line>
-          <option name="timeStamp" value="43" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
