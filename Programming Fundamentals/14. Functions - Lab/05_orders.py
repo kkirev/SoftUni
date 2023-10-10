@@ -11,6 +11,7 @@ and a quantity of the product. The prices for a single piece of each product are
 Print the result formatted to the second decimal place.
 """
 
+
 def price_calc(item, item_count):
 	item_price = 0
 	if item == "coffee":
@@ -23,6 +24,7 @@ def price_calc(item, item_count):
 		item_price = 2
 	sum = item_price * item_count
 	return sum
+
 
 product = input()
 product_quantity = int(input())

@@ -7,7 +7,7 @@ Write a function that receives a grade between 2.00 and 6.00 and prints the corr
 •	5.50 – 6.00 - "Excellent"
 """
 
-grade = float(input())
+
 
 def grade_givers(grade):
 	if 2 <= grade < 3:
@@ -21,5 +21,5 @@ def grade_givers(grade):
 	elif 5.5 <= grade < 6:
 		return "Excellent"
 
-
+grade = float(input())
 print(grade_givers(grade))

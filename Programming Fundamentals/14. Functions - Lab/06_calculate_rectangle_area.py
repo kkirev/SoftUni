@@ -3,6 +3,7 @@ Create a function that calculates and returns the area of a rectangle by given w
 Print the result on the console.
 """
 
+
 def trangle_area(a, b):
 	area = a * b
 	return area

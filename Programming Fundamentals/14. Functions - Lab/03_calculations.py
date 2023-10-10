@@ -5,6 +5,7 @@ The input comes as three parameters – an operator as a string and two integer 
 The operator can be one of the following:  "multiply", "divide", "add", "subtract".
 """
 
+
 def calc(first_num, second_num, calc_operator):
 	result = 0
 	if calc_operator == "multiply":
