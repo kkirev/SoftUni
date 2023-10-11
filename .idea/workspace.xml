@@ -5,24 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07c2df67-44ac-471d-b19d-038533348a0e" name="Changes" comment="just added the rest of the tasks">
-      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/15. Functions - Exercise/01_smallest_of_three_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/15. Functions - Exercise/02_add_and_subtract.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/15. Functions - Exercise/03_characters_in_range.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/15. Functions - Exercise/04_odd_and_even_sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/15. Functions - Exercise/05_even_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/15. Functions - Exercise/06_sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/15. Functions - Exercise/07_min_max_and_sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/15. Functions - Exercise/08_palindrome_intigers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/15. Functions - Exercise/09_password_vaidator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/15. Functions - Exercise/10_perfect_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/15. Functions - Exercise/11_loading_bar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/15. Functions - Exercise/12_factorial_divison.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/14. Functions - Lab/02_grades.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Fundamentals/14. Functions - Lab/02_grades.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/14. Functions - Lab/03_calculations.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Fundamentals/14. Functions - Lab/03_calculations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/14. Functions - Lab/04_repeat_string.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Fundamentals/14. Functions - Lab/04_repeat_string.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/14. Functions - Lab/05_orders.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Fundamentals/14. Functions - Lab/05_orders.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/14. Functions - Lab/06_calculate_rectangle_area.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Fundamentals/14. Functions - Lab/06_calculate_rectangle_area.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/14. Functions - Lab/07_rounding.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Fundamentals/14. Functions - Lab/07_rounding.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Fundamentals/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/15. Functions - Exercise/10_perfect_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Fundamentals/15. Functions - Exercise/10_perfect_number.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,25 +39,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/OneDrive/Programming/SoftUni-Course/Code&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/OneDrive/Programming/SoftUni-Course/Code",
+    "settings.editor.selected.configurable": "editor.preferences.appearance"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\OneDrive\Programming\SoftUni-Course\Code\Programming Fundamentals\15. Functions - Exercise" />
       <recent name="D:\OneDrive\Programming\SoftUni-Course\Code\Programming Fundamentals" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.09_password_vaidator">
-    <configuration name="06_sort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.test">
+    <configuration name="10_perfect_number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,11 +66,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Fundamentals/15. Functions - Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Fundamentals/12. Lists Basics - More Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Fundamentals/15. Functions - Exercise/06_sort.py" />
+      <option name="SCRIPT_NAME" value="D:\OneDrive\Programming\SoftUni-Course\Code\Programming Fundamentals\15. Functions - Exercise\10_perfect_number.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,7 +79,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="07_min_max_and_sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="11_loading_bar (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -104,7 +91,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Fundamentals/15. Functions - Exercise/07_min_max_and_sum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Fundamentals/15. Functions - Exercise/11_loading_bar.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,7 +100,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="08_palindrome_intigers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="11_loading_bar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,11 +108,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Fundamentals/15. Functions - Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Fundamentals/12. Lists Basics - More Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Fundamentals/15. Functions - Exercise/08_palindrome_intigers.py" />
+      <option name="SCRIPT_NAME" value="D:\OneDrive\Programming\SoftUni-Course\Code\Programming Fundamentals\15. Functions - Exercise\11_loading_bar.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,7 +121,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="09_password_vaidator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="12_factorial_divison" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -146,7 +133,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Fundamentals/15. Functions - Exercise/09_password_vaidator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Fundamentals/15. Functions - Exercise/12_factorial_divison.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.09_password_vaidator" />
-        <item itemvalue="Python.08_palindrome_intigers" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.07_min_max_and_sum" />
-        <item itemvalue="Python.06_sort" />
+        <item itemvalue="Python.12_factorial_divison" />
+        <item itemvalue="Python.11_loading_bar (1)" />
+        <item itemvalue="Python.11_loading_bar" />
+        <item itemvalue="Python.10_perfect_number" />
       </list>
     </recent_temporary>
   </component>
@@ -245,13 +232,6 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Programming Fundamentals/09. Data Types and Variables - Exercise/04_sum_of_chairs.py</url>
-          <line>11</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
           <properties notifyOnTerminate="true" exception="BaseException">
