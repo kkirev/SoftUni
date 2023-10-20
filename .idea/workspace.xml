@@ -5,17 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07c2df67-44ac-471d-b19d-038533348a0e" name="Changes" comment="just added the rest of the tasks">
-      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/15. Functions - More Exercise/01_data_types.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/15. Functions - More Exercise/02_center_points.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/15. Functions - More Exercise/03_longer_line.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/17. Lists Advanced/01_no_vowels.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/17. Lists Advanced/02_trains.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/17. Lists Advanced/03_to_do_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/17. Lists Advanced/04_palindrome_sindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/17. Lists Advanced/05_sorting_names.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/17. Lists Advanced/06_even_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/17. Lists Advanced/07_the_office.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/19. Mid-Exam Preparation/01_black_flag.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/19. Mid-Exam Preparation/02_shopping_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/19. Mid-Exam Preparation/03_memory_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/19. Mid-Exam Preparation/03_memory_game_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/20. Mid-Exam Preparation/01_bonus_scoring_system.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/20. Mid-Exam Preparation/02_mu_online.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/20. Mid-Exam Preparation/03_man_o_war.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/12. Lists Basics - Exercises/10_bread_factory.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Fundamentals/12. Lists Basics - Exercises/10_bread_factory.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/17. Lists Advanced/01_no_vowels.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Fundamentals/17. Lists Advanced - Lab/01_no_vowels.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/17. Lists Advanced/02_trains.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Fundamentals/17. Lists Advanced - Lab/02_trains.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/17. Lists Advanced/03_to_do_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Fundamentals/17. Lists Advanced - Lab/03_to_do_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/17. Lists Advanced/04_palindrome_sindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Fundamentals/17. Lists Advanced - Lab/04_palindrome_sindrome.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/17. Lists Advanced/05_sorting_names.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Fundamentals/17. Lists Advanced - Lab/05_sorting_names.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/17. Lists Advanced/06_even_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Fundamentals/17. Lists Advanced - Lab/06_even_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/17. Lists Advanced/07_the_office.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Fundamentals/17. Lists Advanced - Lab/07_the_office.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Programming Fundamentals/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Fundamentals/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,17 +61,18 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/OneDrive/Programming/SoftUni-Course/Code&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.appearance&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Python&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\OneDrive\Programming\SoftUni-Course\Code\Programming Fundamentals\19. Mid-Exam Preparation" />
       <recent name="D:\OneDrive\Programming\SoftUni-Course\Code\Programming Fundamentals\15. Functions - Exercise" />
       <recent name="D:\OneDrive\Programming\SoftUni-Course\Code\Programming Fundamentals" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.07_the_office">
-    <configuration name="03_to_do_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.03_man_o_war">
+    <configuration name="02_mu_online" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,11 +80,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Fundamentals/17. Lists Advanced" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Fundamentals/20. Mid-Exam Preparation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Fundamentals/17. Lists Advanced/03_to_do_list.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Fundamentals/20. Mid-Exam Preparation/02_mu_online.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,7 +93,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04_palindrome_sindrome" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03_man_o_war" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,11 +101,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Fundamentals/17. Lists Advanced" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Fundamentals/20. Mid-Exam Preparation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Fundamentals/17. Lists Advanced/04_palindrome_sindrome.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Fundamentals/20. Mid-Exam Preparation/03_man_o_war.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,7 +114,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="06_even_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03_memory_game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,11 +122,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Fundamentals/17. Lists Advanced" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Fundamentals/20. Mid-Exam Preparation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Fundamentals/17. Lists Advanced/06_even_numbers.py" />
+      <option name="SCRIPT_NAME" value="D:\OneDrive\Programming\SoftUni-Course\Code\Programming Fundamentals\19. Mid-Exam Preparation\03_memory_game.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="07_the_office" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03_memory_game_" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,11 +143,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Fundamentals/17. Lists Advanced" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Fundamentals/20. Mid-Exam Preparation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Fundamentals/17. Lists Advanced/07_the_office.py" />
+      <option name="SCRIPT_NAME" value="D:\OneDrive\Programming\SoftUni-Course\Code\Programming Fundamentals\19. Mid-Exam Preparation\03_memory_game_.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.07_the_office" />
+        <item itemvalue="Python.03_man_o_war" />
+        <item itemvalue="Python.03_memory_game_" />
+        <item itemvalue="Python.03_memory_game" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.06_even_numbers" />
-        <item itemvalue="Python.04_palindrome_sindrome" />
-        <item itemvalue="Python.03_to_do_list" />
+        <item itemvalue="Python.02_mu_online" />
       </list>
     </recent_temporary>
   </component>
@@ -240,6 +246,13 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Programming Fundamentals/19. Mid-Exam Preparation/03_memory_game.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+      </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
           <properties notifyOnTerminate="true" exception="BaseException">
