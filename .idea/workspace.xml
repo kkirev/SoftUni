@@ -5,17 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07c2df67-44ac-471d-b19d-038533348a0e" name="Changes" comment="just added the rest of the tasks">
-      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/18. List Advanced - Exercise/01_which_are_in.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/19-20. Mid-Exam Preparation/03. Numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/19-20. Mid-Exam Preparation/03_heart_delivery.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/19-20. Mid-Exam Preparation/03_the_pianist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/21. Mid-Exam/mid_exam_task_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/21. Mid-Exam/mid_exam_task_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/21. Mid-Exam/mid_exam_task_03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/18. List Advanced - Exercise/03_word_filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/18. List Advanced - Exercise/04_number_classification.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/18. List Advanced - Exercise/05_office_chairs.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/19-20. Mid-Exam Preparation/01_bonus_scoring_system.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Fundamentals/19-20. Mid-Exam Preparation/01_bonus_scoring_system.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/19-20. Mid-Exam Preparation/02_shopping_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Fundamentals/19-20. Mid-Exam Preparation/02_shopping_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Fundamentals/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/18. List Advanced - Exercise/01_which_are_in.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Fundamentals/18. List Advanced - Exercise/01_which_are_in.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/18. List Advanced - Exercise/02_next_version.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Fundamentals/18. List Advanced - Exercise/02_next_version.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +65,7 @@
       <recent name="D:\OneDrive\Programming\SoftUni-Course\Code\Programming Fundamentals" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.01_which_are_in">
+  <component name="RunManager" selected="Python.05_office_chairs">
     <configuration name="01_which_are_in" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -92,7 +87,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="mid_exam_task_01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02_next_version" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,11 +95,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Fundamentals" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Fundamentals/18. List Advanced - Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\OneDrive\Programming\SoftUni-Course\Code\Programming Fundamentals\20. Mid-Exam\mid_exam_task_01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Fundamentals/18. List Advanced - Exercise/02_next_version.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="mid_exam_task_02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03_word_filter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,11 +116,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Fundamentals" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Fundamentals/18. List Advanced - Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\OneDrive\Programming\SoftUni-Course\Code\Programming Fundamentals\20. Mid-Exam\mid_exam_task_02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Fundamentals/18. List Advanced - Exercise/03_word_filter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="mid_exam_task_03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04_number_classification" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,11 +137,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Fundamentals" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Fundamentals/18. List Advanced - Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\OneDrive\Programming\SoftUni-Course\Code\Programming Fundamentals\20. Mid-Exam\mid_exam_task_03.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Fundamentals/18. List Advanced - Exercise/04_number_classification.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,7 +150,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task_02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="05_office_chairs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -163,11 +158,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Fundamentals" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Fundamentals/18. List Advanced - Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Fundamentals/task_02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Fundamentals/18. List Advanced - Exercise/05_office_chairs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.05_office_chairs" />
+        <item itemvalue="Python.04_number_classification" />
+        <item itemvalue="Python.03_word_filter" />
         <item itemvalue="Python.01_which_are_in" />
-        <item itemvalue="Python.mid_exam_task_02" />
-        <item itemvalue="Python.mid_exam_task_03" />
-        <item itemvalue="Python.task_02" />
-        <item itemvalue="Python.mid_exam_task_01" />
+        <item itemvalue="Python.02_next_version" />
       </list>
     </recent_temporary>
   </component>
