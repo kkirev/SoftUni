@@ -10,6 +10,7 @@ Note: there is no input/output for this problem. Test the class yourself and sub
 
 
 class Comment:
+
 	def __init__(self, username, content, likes=0):
 		self.username = username
 		self.content = content

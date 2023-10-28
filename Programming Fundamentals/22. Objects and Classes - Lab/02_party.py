@@ -10,6 +10,7 @@ Note: submit all of your code, including the class
 
 
 class Party:
+
 	def __init__(self):
 		self.people = []
 
