@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07c2df67-44ac-471d-b19d-038533348a0e" name="Changes" comment="Some new tasks solutions" />
+    <list default="true" id="07c2df67-44ac-471d-b19d-038533348a0e" name="Changes" comment="Some new tasks solutions">
+      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/12. Lists Basics - Exercises/08_seize_the_fire.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/12. Lists Basics - Exercises/09_hello_france.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/18. List Advanced - Exercise/06_electron_distribution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/18. List Advanced - Exercise/07_group_of_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/18. List Advanced - Exercise/08_decipher_this.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/18. List Advanced - Exercise/09_anonymous_threat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/18. List Advanced - Exercise/10_pokemon_don't_go.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/test_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/test_file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/18. List Advanced - Exercise/05_office_chairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Fundamentals/18. List Advanced - Exercise/05_office_chairs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/test.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,8 +71,8 @@
       <recent name="D:\OneDrive\Programming\SoftUni-Course\Code\Programming Fundamentals" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.09_movie">
-    <configuration name="05_class" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.10_pokemon_don't_go">
+    <configuration name="08_decipher_this" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -67,11 +80,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Fundamentals/23. Objects and Classes - Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Fundamentals/18. List Advanced - Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Fundamentals/23. Objects and Classes - Exercise/05_class.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Fundamentals/18. List Advanced - Exercise/08_decipher_this.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -80,7 +93,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="06_inventory" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="09_anonymous_threat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,11 +101,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Fundamentals/23. Objects and Classes - Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Fundamentals/18. List Advanced - Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Fundamentals/23. Objects and Classes - Exercise/06_inventory.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Fundamentals/18. List Advanced - Exercise/09_anonymous_threat.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,7 +114,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="07_articles" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="09_hello_france" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,11 +122,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Fundamentals/23. Objects and Classes - Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Fundamentals/12. Lists Basics - Exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Fundamentals/23. Objects and Classes - Exercise/07_articles.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Fundamentals/12. Lists Basics - Exercises/09_hello_france.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -122,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="08_vehicle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="10_pokemon_don't_go" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,11 +143,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Fundamentals/23. Objects and Classes - Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Fundamentals/18. List Advanced - Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Fundamentals/23. Objects and Classes - Exercise/08_vehicle.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Fundamentals/18. List Advanced - Exercise/10_pokemon_don't_go.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,7 +156,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="09_movie" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test_file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -151,11 +164,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Fundamentals/23. Objects and Classes - Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Fundamentals" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Fundamentals/23. Objects and Classes - Exercise/09_movie.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Fundamentals/test_file.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -166,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.09_movie" />
-        <item itemvalue="Python.08_vehicle" />
-        <item itemvalue="Python.07_articles" />
-        <item itemvalue="Python.06_inventory" />
-        <item itemvalue="Python.05_class" />
+        <item itemvalue="Python.10_pokemon_don't_go" />
+        <item itemvalue="Python.09_anonymous_threat" />
+        <item itemvalue="Python.09_hello_france" />
+        <item itemvalue="Python.test_file" />
+        <item itemvalue="Python.08_decipher_this" />
       </list>
     </recent_temporary>
   </component>
@@ -250,28 +263,6 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Programming Fundamentals/19-20. Mid-Exam Preparation/03_heart_delivery.py</url>
-          <line>41</line>
-          <option name="timeStamp" value="50" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Programming Fundamentals/19-20. Mid-Exam Preparation/03_heart_delivery.py</url>
-          <line>51</line>
-          <option name="timeStamp" value="51" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Programming Fundamentals/19-20. Mid-Exam Preparation/03_heart_delivery.py</url>
-          <line>45</line>
-          <option name="timeStamp" value="52" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Programming Fundamentals/18. List Advanced - Exercise/01_which_are_in.py</url>
-          <line>4</line>
-          <option name="timeStamp" value="53" />
-        </line-breakpoint>
-      </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
           <properties notifyOnTerminate="true" exception="BaseException">
