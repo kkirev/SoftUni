@@ -27,26 +27,28 @@ Constrains
 •	The input data will consist only of valid integers in the range [-2.147.483.648…2.147.483.647].
 """
 
-start_sequences = [int(number) for number in input().split()]
+start_sequence = [int(number) for number in input().split()]
 index = int(input())
 
-selected_num = start_sequences[index]
-next_num = start_sequences[index + 1]
-previous_num = start_sequences[-1]
+selected_num = int(start_sequence[index])
+sum_list = []
+while start_sequence:
+	for number in start_sequence:
+		start_sequence.remove(start_sequence[index])
 
-while start_sequences:
+		start_sequence = [
+			number + selected_num if number <= selected_num else number - selected_num for number in start_sequence
+		]
+		# if number <= selected_num:
+		# 	start_sequence = [number + selected_num for number in start_sequence]
+		# elif number > selected_num:
+		# 	start_sequence = [number - selected_num for number in start_sequence]
 
-	if previous_num >= selected_num:
-		previous_num -= selected_num
-	else:
-		previous_num += selected_num
+		if index < 0:
+			selected_num = start_sequence[0]
+		elif index > len(start_sequence) + 1:
+			selected_num = start_sequence[len(start_sequence) - 1]  # check this index (-1) if the program doesn't work
 
-	if next_num >= selected_num:
-		next_num -= selected_num
-	else:
-		next_num += selected_num
-
-	start_sequences.pop(index)
-
+		sum_list.append(selected_num)
 	index = int(input())
-
+print(sum_list)
