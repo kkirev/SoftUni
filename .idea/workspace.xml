@@ -5,81 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07c2df67-44ac-471d-b19d-038533348a0e" name="Changes" comment="Some new tasks solutions">
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/08. Data Types and Variables - Lab/01_concat_names.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/08. Data Types and Variables - Lab/02_convert_meters_to_kilometers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/08. Data Types and Variables - Lab/03_punds_to_dollars.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/08. Data Types and Variables - Lab/04_centuries_to_minutes.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/08. Data Types and Variables - Lab/05_special_numbers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/08. Data Types and Variables - Lab/06_next_happy_year.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/09. Data Types and Variables - Exercise/01_integer_operations.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/09. Data Types and Variables - Exercise/02_chars_to_string.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/09. Data Types and Variables - Exercise/03_elevator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/09. Data Types and Variables - Exercise/04_sum_of_chairs.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/09. Data Types and Variables - Exercise/05_print_part_of_the_ascii_table.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/09. Data Types and Variables - Exercise/06_triples_of_latin_letters.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/09. Data Types and Variables - Exercise/07_water_overflow.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/09. Data Types and Variables - Exercise/08_party_profit.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/09. Data Types and Variables - Exercise/09_snowballs.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/09. Data Types and Variables - Exercise/10_gladiator_expenses.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/11. Lists Basics - Lab/01_strange_zoo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/11. Lists Basics - Lab/02_courses.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/11. Lists Basics - Lab/03_list_statistics.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/11. Lists Basics - Lab/04_search.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/11. Lists Basics - Lab/05_numbers_filter.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/12. Lists Basics - Exercises/01_invert_value.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/12. Lists Basics - Exercises/02_multiplies_list.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/12. Lists Basics - Exercises/03_footbal_cards.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/12. Lists Basics - Exercises/04_number_beggars.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/12. Lists Basics - Exercises/05_faro_shuffle.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/12. Lists Basics - Exercises/06_survival_of_the_biggest.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/12. Lists Basics - Exercises/07_easter_gifts.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/12. Lists Basics - Exercises/08_seize_the_fire.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/12. Lists Basics - Exercises/09_hello_france.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/12. Lists Basics - Exercises/10_bread_factory.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/12. Lists Basics - More Exercise/01_zeros_to_back.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/12. Lists Basics - More Exercise/02_messaging.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/12. Lists Basics - More Exercise/03_car_race.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/12. Lists Basics - More Exercise/05_tic_tac_toe.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/14. Functions - Lab/01_absolute_values.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/14. Functions - Lab/02_grades.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/14. Functions - Lab/03_calculations.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/14. Functions - Lab/04_repeat_string.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/14. Functions - Lab/05_orders.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/14. Functions - Lab/06_calculate_rectangle_area.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/14. Functions - Lab/07_rounding.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/15. Functions - Exercise/01_smallest_of_three_numbers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/15. Functions - Exercise/02_add_and_subtract.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/15. Functions - Exercise/03_characters_in_range.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/15. Functions - Exercise/04_odd_and_even_sum.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/15. Functions - Exercise/05_even_numbers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/15. Functions - Exercise/06_sort.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/15. Functions - Exercise/07_min_max_and_sum.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/15. Functions - Exercise/08_palindrome_intigers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/15. Functions - Exercise/09_password_vaidator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/15. Functions - Exercise/10_perfect_number.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/15. Functions - Exercise/11_loading_bar.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/15. Functions - Exercise/12_factorial_divison.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/15. Functions - More Exercise/01_data_types.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/15. Functions - More Exercise/02_center_points.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/15. Functions - More Exercise/03_longer_line.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/17. Lists Advanced - Lab/01_no_vowels.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/17. Lists Advanced - Lab/02_trains.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/17. Lists Advanced - Lab/03_to_do_list.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/17. Lists Advanced - Lab/04_palindrome_sindrome.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/17. Lists Advanced - Lab/05_sorting_names.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/17. Lists Advanced - Lab/06_even_numbers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/17. Lists Advanced - Lab/07_the_office.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/18. List Advanced - Exercise/01_which_are_in.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/18. List Advanced - Exercise/02_next_version.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/18. List Advanced - Exercise/03_word_filter.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/18. List Advanced - Exercise/04_number_classification.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/18. List Advanced - Exercise/05_office_chairs.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/18. List Advanced - Exercise/06_electron_distribution.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/18. List Advanced - Exercise/07_group_of_10.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/18. List Advanced - Exercise/08_decipher_this.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/18. List Advanced - Exercise/09_anonymous_threat.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/18. List Advanced - Exercise/10_pokemon_don't_go.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/19-20. Mid-Exam Preparation/ Numbers.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/26. Dictionaries - Exercise/capitals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/26. Dictionaries - Exercise/legendary_farming.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/26. Dictionaries - Exercise/phonebook.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/26. Dictionaries - Exercise/01_count_chars_in_a_string.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Fundamentals/26. Dictionaries - Exercise/count_chars_in_a_string.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/26. Dictionaries - Exercise/02_a_miner_task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Fundamentals/26. Dictionaries - Exercise/a_miner_task.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,6 +26,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Programming Fundamentals/26. Dictionaries - Exercise/count_chars_in_a_string.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -134,8 +68,8 @@
       <recent name="D:\OneDrive\Programming\SoftUni-Course\Code\Programming Fundamentals" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.01_count_chars_in_a_string">
-    <configuration name="01_count_chars_in_a_string" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.a_miner_task">
+    <configuration name="a_miner_task" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -147,7 +81,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Fundamentals/26. Dictionaries - Exercise/01_count_chars_in_a_string.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Fundamentals/26. Dictionaries - Exercise/a_miner_task.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,7 +90,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04_students" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="capitals" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -164,11 +98,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Fundamentals/25. Dictionaries - Lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Fundamentals/26. Dictionaries - Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Fundamentals/25. Dictionaries - Lab/04_students.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Fundamentals/26. Dictionaries - Exercise/capitals.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,7 +111,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05_ascii_values" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="legendary_farming" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -185,11 +119,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Fundamentals/25. Dictionaries - Lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Fundamentals/26. Dictionaries - Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Fundamentals/25. Dictionaries - Lab/05_ascii_values.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Fundamentals/26. Dictionaries - Exercise/legendary_farming.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -198,7 +132,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="07_word_synonyms" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="legendary_farming" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -206,11 +140,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Fundamentals/25. Dictionaries - Lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Fundamentals/26. Dictionaries - Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Fundamentals/25. Dictionaries - Lab/07_word_synonyms.py" />
+      <option name="SCRIPT_NAME" value="D:\OneDrive\Programming\SoftUni-Course\Code\Programming Fundamentals\26. Dictionaries - Exercise\legendary_farming.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -219,7 +153,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="phonebook" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -227,11 +161,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Fundamentals" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Fundamentals/26. Dictionaries - Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Fundamentals/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Fundamentals/26. Dictionaries - Exercise/phonebook.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -242,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.01_count_chars_in_a_string" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.07_word_synonyms" />
-        <item itemvalue="Python.04_students" />
-        <item itemvalue="Python.05_ascii_values" />
+        <item itemvalue="Python.a_miner_task" />
+        <item itemvalue="Python.legendary_farming" />
+        <item itemvalue="Python.legendary_farming" />
+        <item itemvalue="Python.phonebook" />
+        <item itemvalue="Python.capitals" />
       </list>
     </recent_temporary>
   </component>
