@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07c2df67-44ac-471d-b19d-038533348a0e" name="Changes" comment="Some new tasks solutions">
-      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/26. Dictionaries - Exercise/capitals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/26. Dictionaries - Exercise/legendary_farming.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programming Fundamentals/26. Dictionaries - Exercise/phonebook.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/26. Dictionaries - Exercise/01_count_chars_in_a_string.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Fundamentals/26. Dictionaries - Exercise/count_chars_in_a_string.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/26. Dictionaries - Exercise/02_a_miner_task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Fundamentals/26. Dictionaries - Exercise/a_miner_task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Fundamentals/26. Dictionaries - Exercise/orders.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Fundamentals/26. Dictionaries - Exercise/orders.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +49,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/OneDrive/Programming/SoftUni-Course/Code/Programming Fundamentals/19-20. Mid-Exam Preparation&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Python&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
   <component name="RecentsManager">
