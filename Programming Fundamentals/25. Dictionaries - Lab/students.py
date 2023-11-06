@@ -4,21 +4,21 @@ format "{name}:{ID}:{course}". On the last line, you will receive a name of a co
 You should print only the information of the students who have taken the corresponding course in the
 format: "{name} - {ID}" on separate lines.
 
-			Input				|		Output
----------------------------------------------------
-Peter:123:programming basics	|	John - 5622
-John:5622:fundamentals			|	Maya - 89
-Maya:89:fundamentals			|	Lilly - 633
-Lilly:633:fundamentals			|
-fundamentals					|
+Example:
 
-			Input				|		Output
-----------------------------------------------------
-Alex:6:programming basics		|	Alex - 6
-Maria:7:programming basics		|	Maria - 7
-Kaloyan:9:advanced				|
-Todor:10:fundamentals			|
-programming_basics				|
+Input
+------------------------------
+Peter:123:programming basics
+John:5622:fundamentals
+Maya:89:fundamentals
+Lilly:633:fundamentals
+fundamentals
+
+Output
+------------------------------
+John - 5622
+Maya - 89
+Lilly - 633
 """
 
 data = input()
