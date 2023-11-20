@@ -25,38 +25,101 @@ Output
 •	The output should be lowercase, except for the first letter of the legendary
 """
 
+# Ivan Shopov Solution
 
 items = {"shards": 0, "fragments": 0, "motes": 0}
 obtained = False
 
 while not obtained:
 	current_items = input().split()
-
 	for index in range(0, len(current_items), 2):
 		value = int(current_items[index])
 		item = current_items[index + 1].lower()
-
 		if item not in items:
 			items[item] = 0
 		items[item] += value
-
 		if items["shards"] >= 250:
 			print("Shadowmourne obtained!")
 			obtained = True
 			items["shards"] -= 250
-
 		elif items["fragments"] >= 250:
 			print("Valanyr obtained!")
 			items["fragments"] -= 250
 			obtained = True
-
 		elif items["motes"] >= 250:
 			print("Dragonwrath obtained!")
 			items["motes"] -= 250
 			obtained = True
-
 		if obtained:
 			break
 
 for item, value in items.items():
 	print(f"{item}: {value}")
+
+# ---------------------------------------------------------------------------------------------------------------------
+# Konstantin Solution - Judge 80/100
+
+# def win_what(material, quantity):
+# 	if material == "shards":
+# 		win = "Shadowmourne"
+# 	elif material == "fragments":
+# 		win = "Valanyr"
+# 	elif material == "motes":
+# 		win = "Dragonwrath"
+# 	return win
+#
+#
+# legendary_items = {"shards": 0, "fragments": 0, "motes": 0}
+# obtained = False
+#
+# while not obtained:
+# 	materials = input().lower().split()
+# 	for index in range(0, len(materials), 2):
+# 		quantity = int(materials[index])
+# 		material = materials[index + 1]
+#
+# 		if material not in legendary_items:
+# 			legendary_items[material] = quantity
+# 		else:
+# 			legendary_items[material] += quantity
+#
+# 		if legendary_items[material] >= 250:
+# 			legendary_items[material] -= 250
+# 			obtained = True
+# 			break
+#
+# if obtained:
+# 	print(f"{win_what(material, legendary_items[material])} obtained!")
+# 	for material, quantity in legendary_items.items():
+# 		print(f"{material}: {quantity}")
+
+# ---------------------------------------------------------------------------------------------------------------------
+# ChatGPT Solution
+
+# legendary_item = ""
+# key_materials = {"shards": 0, "fragments": 0, "motes": 0}
+# junk_items = {}
+#
+# while True:
+# 	input_line = input().lower().split()
+# 	for i in range(0, len(input_line), 2):
+# 		quantity = int(input_line[i])
+# 		material = input_line[i + 1]
+# 		if material in key_materials:
+# 			key_materials[material] += quantity
+# 			if key_materials[material] >= 250:
+# 				legendary_item = material
+# 				key_materials[material] -= 250
+# 				break
+# 		else:
+# 			if material not in junk_items:
+# 				junk_items[material] = 0
+# 			junk_items[material] += quantity
+# 	if legendary_item:
+# 		break
+#
+# print(f"{legendary_item.capitalize()} obtained!")
+# for material, quantity in key_materials.items():
+# 	print(f"{material}: {quantity}")
+# for material, quantity in sorted(junk_items.items()):
+# 	print(f"{material}: {quantity}")
